@@ -1,5 +1,15 @@
 # FCC-Data_Visualization_Projects (Under Construction)
-Data Visualizations implemented as part of freeCodeCamp's curriculum
+Data Visualizations implemented as part of freeCodeCamp's curriculum. The were implemented using the D3 JavaScript library for data visualization. Bootstrap and jQuery are also used. 
+
+####Screenshots:
+
+- Barchart visualization
+![](screenshots/barchart)
+- Scatterplot Graph visualization
+![](screenshots/scatterplot)
+- ...
+- ...
+- ...
 
 **More information:**
 * Check [freeCodeCamp](https://www.freecodecamp.org) to learn about its whole curriculum for full-Stack web development.
