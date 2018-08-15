@@ -1,0 +1,75 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+h1, h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100%;
+  overflow: hidden;
+  background: url(../images/paper.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+ 
+}
+
+#scatterplot-container {
+  margin-top: auto;
+  position: absolute;
+  padding: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#scatterplot-body {
+  margin-top: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0px 50px 100px 0px rgba(0,0,102,0.1);
+}
+
+
+
+.red {
+  fill: red;
+  border: 1px solid black;
+}
+
+.blue {
+  fill: steelblue;
+  border: 1px solid black;
+}
+
+text {
+  font-size: 10px;
+}
+
+.tooltip {
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fafafa;
+  padding: 5px;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+  max-width: 200px;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.tooltip span {
+  display: block;
+}
