@@ -4,9 +4,9 @@ Data Visualizations implemented as part of freeCodeCamp's curriculum. The were i
 #### Screenshots:
 
 - Barchart visualization
-![](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/tree/master/screenshots/barchart.png)
+![barchart](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/tree/master/screenshots/barchart.png)
 - Scatterplot Graph visualization
-![](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/tree/master/screenshotsscreenshots/scatterplot.png)
+![scatterplot](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/tree/master/screenshotsscreenshots/scatterplot.png)
 - ...
 - ...
 - ...
