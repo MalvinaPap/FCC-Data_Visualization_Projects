@@ -9,7 +9,8 @@ Data Visualizations implemented as part of freeCodeCamp's curriculum. The were i
 - Scatterplot Graph visualization
 ![scatterplot](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/scatterplot.PNG)
 
-- ...
+- Heatmap Visualization
+![heatmap](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/heatmap.PNG)
 
 - ...
 
