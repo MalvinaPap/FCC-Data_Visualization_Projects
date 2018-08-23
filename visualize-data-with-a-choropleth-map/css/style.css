@@ -1,0 +1,27 @@
+h1 {
+  font-weight:bold;
+}
+body {
+  background: #ffffe6;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color:#1a0000;
+  margin:20px;
+}
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+.tooltip {
+  position: absolute;
+  padding: 15px;   
+  font: 12px; 
+  background: rgba(255, 255, 204, 0.9);
+  box-shadow: 2px 2px 3px;
+  border: 1px solid #330000;        
+  border-radius: 10px;                    
+}
+
+
