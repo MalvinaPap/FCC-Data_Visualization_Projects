@@ -12,7 +12,9 @@ Data Visualizations implemented as part of freeCodeCamp's curriculum. The were i
 - Heatmap Visualization
 ![heatmap](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/heatmap.PNG)
 
-- ...
+- Choropleth Map Visualization
+![choropleth](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/choropleth.PNG)
+
 
 - ...
 
