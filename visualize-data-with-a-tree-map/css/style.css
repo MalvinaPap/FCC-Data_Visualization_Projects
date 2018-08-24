@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffe6;
+}
+
+#title{
+  font: 45px Arial;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#description{
+  margin-bottom: 10px;
+}
+
+#tree-map {
+  font: 10px arial;
+  text-align: center;
+  display: block;
+  margin: auto;
+  border: 2px rgba(128, 128, 128, 0.6);
+  border-radius: 15px;
+  box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.6);
+}
+
+#tooltip {
+  position: absolute;
+  padding: 10px;                
+  font: 12px Arial;        
+  background: rgba(255, 255, 204, 0.95);
+  box-shadow: 1px 1px 10px rgba(128, 128, 128, 0.6);
+  border: 1px;        
+  border-radius: 5px;            
+}
+
+#legend{
+  font-size: 15px;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
