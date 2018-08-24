@@ -1,4 +1,4 @@
-# freeCodeCamp|Data Visualization Projects (Under Construction)
+# freeCodeCamp|Data Visualization Projects 
 Data Visualizations implemented as part of freeCodeCamp's curriculum. The were implemented using the D3 JavaScript library for data visualization. Bootstrap and jQuery are also used. 
 
 #### Screenshots:
@@ -21,7 +21,10 @@ Data Visualizations implemented as part of freeCodeCamp's curriculum. The were i
 ![choropleth](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/choropleth.PNG)
 
 
-- ...
+- Treemap Visualization
+
+![treemap](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/treemap.PNG)
+
 
 **More information:**
 * Check [freeCodeCamp](https://www.freecodecamp.org) to learn about its whole curriculum for full-Stack web development.
