@@ -7,24 +7,22 @@ Data Visualizations implemented as part of freeCodeCamp's curriculum. The were i
 <p align="center">
   <img src="https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/barchart.PNG" alt="barchart"/>
 </p>
-
-
 - Scatterplot Graph visualization
-
-![scatterplot](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/scatterplot.PNG)
-
+<p align="center">
+  <img src="https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/scatterplot.PNG" alt="scatterplot"/>
+</p>
 - Heatmap Visualization
-
-![heatmap](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/heatmap.PNG)
-
+<p align="center">
+  <img src="https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/heatmap.PNG" alt="heatmap"/>
+</p>
 - Choropleth Map Visualization
-
-![choropleth](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/choropleth.PNG)
-
-
+<p align="center">
+  <img src="https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/choropleth.PNG" alt="choropleth"/>
+</p>
 - Treemap Visualization
-
-![treemap](https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/treemap.PNG)
+<p align="center">
+  <img src="https://github.com/MalvinaPap/FCC-Data_Visualization_Projects/blob/master/screenshots/treemap.PNG" alt="treemap"/>
+</p>
 
 
 **More information:**
